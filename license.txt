@@ -175,3 +175,4 @@
 
 	END OF TERMS AND CONDITIONS
 test on automate
+Check path is present in war file or not
